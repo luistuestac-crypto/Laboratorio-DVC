@@ -1,0 +1,4 @@
+[core]
+    remote = mi_almacenamiento_laboratorio
+['remote "mi_almacenamiento_laboratorio"']
+    url = C:\Personales\data\registros
